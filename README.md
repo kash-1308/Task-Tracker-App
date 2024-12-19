@@ -1,4 +1,4 @@
-<b>Dynamic Task Tracker App</b>
+# Dynamic Task Tracker App
 * Built a feature-rich task management app using React.js, enabling users to create, edit, delete, and filter tasks in real-time.
 * Integrated React Router for seamless navigation across multiple views, enhancing user experience and app functionality.
 * Implemented dynamic state management using React's Context API and Hooks for efficient updates and task tracking.
