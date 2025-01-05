@@ -6,7 +6,7 @@
 * Focused on performance optimization, achieving fast load times and a smooth user experience.
 
 
-# Getting Started with Create React App
+# Getting Started with React App
 
 
 In the project directory, you can run:
