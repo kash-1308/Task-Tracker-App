@@ -19,9 +19,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 
+# Project Overview
 
+![Screenshot 2025-01-06 193512](https://github.com/user-attachments/assets/8246a181-9a0c-4128-a26e-53b7bd398fdd)
 
 
 
