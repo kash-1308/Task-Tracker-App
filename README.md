@@ -23,7 +23,9 @@ Builds the app for production to the `build` folder.
 
 # Project Overview
 
-![Screenshot 2025-01-06 193512](https://github.com/user-attachments/assets/8246a181-9a0c-4128-a26e-53b7bd398fdd)
+
+https://github.com/user-attachments/assets/884d000b-ee25-45f5-a844-7ded197386b4
+
 
 
 
