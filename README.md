@@ -8,23 +8,34 @@
 
 # Getting Started with React App
 
+Make sure you have the following installed on your machine:
 
-In the project directory, you can run:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-### `npm start`
+**Cloning the Repository**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+git clone https://github.com/kash-1308/Task-Tracker-App.git
+cd Task-Tracker-App
+```
 
+**Installation**
 
-### `npm run build`
+Install the project dependencies using npm:
 
-Builds the app for production to the `build` folder.
+```bash
+npm install
+```
 
-# Project Overview
+**Running the Project**
 
+```bash
+npm run dev
+```
 
-https://github.com/user-attachments/assets/884d000b-ee25-45f5-a844-7ded197386b4
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
 
